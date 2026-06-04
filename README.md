@@ -1,6 +1,6 @@
 # Olá, eu sou Márcia Silva 👋
 
-🎯 Em transição de carreira para Qualidade de Software (QA)
+🎯 Profissional em transição para Qualidade de Software (QA), com foco em testes, automação e melhoria contínua.
 
 Atualmente estou me especializando em Engenharia de Qualidade de Software pela EBAC, desenvolvendo conhecimentos em:
 
