@@ -7,7 +7,7 @@ Atualmente estou me especializando em Engenharia de Qualidade de Software pela E
 - Testes Manuais
 - Testes de API com Postman
 - Automação com Cypress
-- BDD e Gherkin
+- BDD (Gherkin)
 - Git e GitHub
 - Testes de Performance com JMeter e K6
 
