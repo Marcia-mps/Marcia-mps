@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Márcia Silva 👋
 
-<!--
-**Marcia-mps/Marcia-mps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira para Qualidade de Software (QA)
 
-Here are some ideas to get you started:
+Atualmente estou me especializando em Engenharia de Qualidade de Software pela EBAC, desenvolvendo conhecimentos em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Testes Manuais
+- Testes de API com Postman
+- Automação com Cypress
+- BDD e Gherkin
+- Git e GitHub
+- Testes de Performance com JMeter e K6
+
+## Projetos em destaque
+
+🔹 Automação UI com Cypress
+
+🔹 Testes de API com PactumJS
+
+🔹 Automação Mobile com WebdriverIO/Appium
+
+🔹 Projeto Final EBAC
+
+## Tecnologias
+
+Cypress • Postman • Git • GitHub • JavaScript • Gherkin • JMeter • K6
+
+## Contato
+
+💼 LinkedIn:
+www.linkedin.com/in/marcia-maria-paulino-da-silva
+
+📍 São Paulo - SP
